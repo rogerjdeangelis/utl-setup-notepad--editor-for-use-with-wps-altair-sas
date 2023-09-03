@@ -52,10 +52,6 @@ page for a compressed WPS data set
 
 
 
-There does not appear to be a good windows command line editor. I did try SPFlite.
-Ultraedit is time limited and I could not figure how much it costs for personal use.
-I think when any software is purchased with taxpayers money the cost is public, FOIA request?
-
 Roger
 
 
